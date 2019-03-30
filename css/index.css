@@ -183,10 +183,11 @@ footer nav a {
 .middle {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .card {
-    width: 50%;
+    width: 48%;
     border-bottom: 1px dashed black;
 }
 
@@ -205,4 +206,12 @@ footer nav a {
 .card .btn:hover {
     background-color: black;
     color: white;
+}
+
+.m-top {
+    margin-top: 50px;
+}
+
+.bottom-section {
+    margin-bottom: 40px;
 }
