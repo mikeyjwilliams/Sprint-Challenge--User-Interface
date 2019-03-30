@@ -175,7 +175,7 @@ footer nav a {
 .about {
     display: flex;
     flex-direction: column;
-    border-bottom: 2px dotted black;
+    border-bottom: 1px dashed black;
     padding-bottom: 20px;
     margin-bottom: 25px;
 }
@@ -187,8 +187,22 @@ footer nav a {
 
 .card {
     width: 50%;
+    border-bottom: 1px dashed black;
 }
 
 .card h3 {
     padding-top: 10px;
+}
+
+.card .btn {
+    margin: 20px 0;
+    padding: 10px 25px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.card .btn:hover {
+    background-color: black;
+    color: white;
 }
