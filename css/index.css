@@ -169,3 +169,13 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/*** about page ****/
+
+.about {
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px dotted black;
+    padding-bottom: 20px;
+    margin-bottom: 25px;
+}
