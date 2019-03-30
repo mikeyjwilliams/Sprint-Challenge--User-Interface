@@ -188,3 +188,7 @@ footer nav a {
 .card {
     width: 50%;
 }
+
+.card h3 {
+    padding-top: 10px;
+}
