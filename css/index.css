@@ -175,7 +175,7 @@ footer nav a {
 .about {
     display: flex;
     flex-direction: column;
-    border-bottom: 1px dotted black;
+    border-bottom: 2px dotted black;
     padding-bottom: 20px;
     margin-bottom: 25px;
 }
