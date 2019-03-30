@@ -73,6 +73,13 @@ p {
     margin-bottom: 45px;
 }
 
+.navigation {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    width: 75%;
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
