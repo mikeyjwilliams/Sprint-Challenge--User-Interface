@@ -179,3 +179,12 @@ footer nav a {
     padding-bottom: 20px;
     margin-bottom: 25px;
 }
+
+.middle {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 50%;
+}
